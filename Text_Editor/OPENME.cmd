@@ -1,0 +1,1 @@
+python text_editor.py  --register 
